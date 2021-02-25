@@ -68,7 +68,7 @@ where rk between num/2 and num/2+1
 
 ## 571
 
-![image-20210225091153161](C:/Users/lipan/AppData/Roaming/Typora/typora-user-images/image-20210225091153161.png)
+![image-20210225091153161](https://gitee.com/panli1998/mycloudimage/raw/master/img/image-20210225091153161.png)
 
 ```
 # Write your MySQL query statement below
@@ -88,7 +88,7 @@ and tem.fre <= tem.num/2 + tem.Frequency
 
 ## 579
 
-![image-20210225105725813](C:/Users/lipan/AppData/Roaming/Typora/typora-user-images/image-20210225105725813.png)
+![image-20210225105725813](https://gitee.com/panli1998/mycloudimage/raw/master/img/image-20210225105725813.png)
 
 ```
 
